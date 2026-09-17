@@ -22,7 +22,7 @@ I enjoy solving complex technical problems, helping developers grow, and buildin
 
 **Databases**
 
-`SQL Server` `PostgreSQL` `MongoDB`
+`SQL Server` `PostgreSQL` `MongoDB` `MySQL`
 
 **Cloud & DevOps**
 
@@ -80,41 +80,6 @@ I'm particularly interested in how AI coding agents can be integrated into real 
 
 ---
 
-## 📌 Featured Project
-
-### Portfolio Platform
-
-A personal portfolio platform built with a modern full-stack architecture.
-
-**Backend**
-
-* .NET 10
-* ASP.NET Core Web API
-* PostgreSQL
-* Entity Framework Core
-* Scalar / OpenAPI
-* Layered architecture
-
-**Frontend**
-
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
-* shadcn/ui
-* Framer Motion
-* Lucide
-
-**Infrastructure**
-
-* PostgreSQL hosted on Render
-* Frontend hosted on Cloudflare Pages
-* GitHub-based development workflow
-
-The project is intentionally designed as a real application rather than a static portfolio, providing a foundation for experimenting with architecture, APIs, frontend development, deployment, and future AI-powered features.
-
----
-
 ## 🧠 Engineering Philosophy
 
 > Build software that is easy to understand, test, change, and operate.
@@ -154,4 +119,4 @@ I'm interested in connecting with engineers, technical leaders, architects, and 
 
 `.NET` · `Cloud Architecture` · `AI Engineering` · `Software Architecture` · `Developer Productivity` · `Enterprise Applications`
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/lancelotconcepcion/)
