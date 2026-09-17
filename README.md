@@ -11,6 +11,7 @@ I enjoy solving complex technical problems, helping developers grow, and buildin
 🔗 GitHub
 
 Personal GitHub: [github.com/sirlancelooot](https://github.com/sirlancelooot)
+
 Professional GitHub: [github.com/sirlancelotx](https://github.com/sirlancelotx)
 
 My professional GitHub account contains repositories and contributions from my professional software engineering work, while this account focuses on my personal projects, experiments, and continued learning.
