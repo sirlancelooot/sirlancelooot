@@ -1,6 +1,6 @@
 # Hi, I'm Lance Concepcion 👋
 
-### Technical Lead · Senior Full-Stack .NET Developer · Solution Architect
+### Technical Lead · Senior Full-Stack .NET Developer
 
 I'm a **Technical Lead and hands-on software engineer with 14+ years of experience** building and delivering web applications, APIs, integrations, and enterprise platforms.
 
@@ -10,9 +10,7 @@ I enjoy solving complex technical problems, helping developers grow, and buildin
 
 🔗 GitHub
 
-Personal GitHub: [github.com/sirlancelooot](https://github.com/sirlancelooot)
-
-Professional GitHub: [github.com/sirlancelotx](https://github.com/sirlancelotx)
+Personal GitHub: [github.com/sirlancelooot](https://github.com/sirlancelooot) · Professional GitHub: [github.com/sirlancelotx](https://github.com/sirlancelotx)
 
 My professional GitHub account contains repositories and contributions from my professional software engineering work, while this account focuses on my personal projects, experiments, and continued learning.
 
@@ -119,5 +117,4 @@ I'm interested in connecting with engineers, technical leaders, architects, and 
 
 `.NET` · `Cloud Architecture` · `AI Engineering` · `Software Architecture` · `Developer Productivity` · `Enterprise Applications`
 
-[LinkedIn](https://www.linkedin.com/in/lancelotconcepcion/)
-[Professional Github](https://github.com/sirlancelotx)
+[LinkedIn](https://www.linkedin.com/in/lancelotconcepcion/) · [Professional Github](https://github.com/sirlancelotx)
