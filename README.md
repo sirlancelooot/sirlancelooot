@@ -9,7 +9,9 @@ My primary expertise is in **C# / .NET, ASP.NET Core, SQL Server, REST APIs, clo
 I enjoy solving complex technical problems, helping developers grow, and building systems that are maintainable, scalable, and practical for the business.
 
 🔗 GitHub
+
 Personal GitHub: [github.com/sirlancelooot](https://github.com/sirlancelooot)
+
 Professional GitHub: github.c[om/sirlancelotx](https://github.com/sirlancelotx)
 
 My professional GitHub account contains repositories and contributions from my professional software engineering work, while this account focuses on my personal projects, experiments, and continued learning.
