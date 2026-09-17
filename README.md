@@ -8,6 +8,12 @@ My primary expertise is in **C# / .NET, ASP.NET Core, SQL Server, REST APIs, clo
 
 I enjoy solving complex technical problems, helping developers grow, and building systems that are maintainable, scalable, and practical for the business.
 
+🔗 GitHub
+Personal GitHub: github.com/YOUR_USERNAME
+Professional GitHub: github.com/sirlancelotx
+
+My professional GitHub account contains repositories and contributions from my professional software engineering work, while this account focuses on my personal projects, experiments, and continued learning.
+
 ---
 
 ## 🛠️ Core Technologies
@@ -103,14 +109,6 @@ Processes should help developers deliver better software, not become an obstacle
 
 ---
 
-## 📊 GitHub
-
-I use GitHub primarily for **personal projects, experimentation, technical learning, and demonstrating current engineering practices**.
-
-My professional work has largely been developed within private organizational repositories, so my public GitHub represents the areas I'm actively exploring outside of my day-to-day work.
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in connecting with engineers, technical leaders, architects, and people working on interesting software engineering problems.
@@ -120,3 +118,4 @@ I'm interested in connecting with engineers, technical leaders, architects, and 
 `.NET` · `Cloud Architecture` · `AI Engineering` · `Software Architecture` · `Developer Productivity` · `Enterprise Applications`
 
 [LinkedIn](https://www.linkedin.com/in/lancelotconcepcion/)
+[Professional Github](https://github.com/sirlancelotx)
